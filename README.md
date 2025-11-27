@@ -1,6 +1,6 @@
 # Cod Reducere Carturesti
 
-O colecție de coduri de reducere Carturesti. Le folosim pentru testarea cuvintelor cheie cod reducere Carturesti, voucher Carturesti, cupon Carturesti, și cod promotional Carturesti de pe Cuponescu.ro.
+O colecție de coduri de reducere Carturesti. Le folosim pentru testarea cuvintelor cheie [cod reducere Carturesti](https://cuponescu.ro/magazin/carturesti), [voucher Carturesti](https://cuponescu.ro/magazin/carturesti), [cupon Carturesti](https://cuponescu.ro/magazin/carturesti), și [cod promotional Carturesti](https://cuponescu.ro/magazin/carturesti) de pe Cuponescu.ro.
 
 ## Instalare
 
@@ -36,5 +36,4 @@ console.log(codes)
 
 Cod-reducere-carturesti a fost creat de echipa de la Cuponescu pentru a ajuta cu testarea.
 
-https://www.cuponescu.ro
-
+https://cuponescu.ro
